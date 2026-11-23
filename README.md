@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/aparrna099-afk/Leetcode/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/aparrna099-afk/Leetcode/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/aparrna099-afk/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
