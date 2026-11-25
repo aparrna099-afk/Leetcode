@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/aparrna099-afk/Leetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/aparrna099-afk/Leetcode/tree/master/0704-binary-search) |
+| [1470-shuffle-the-array](https://github.com/aparrna099-afk/Leetcode/tree/master/1470-shuffle-the-array) |
 ## Binary Search
 |  |
 | ------- |
