@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aparrna099-afk/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/aparrna099-afk/Leetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/aparrna099-afk/Leetcode/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/aparrna099-afk/Leetcode/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/aparrna099-afk/Leetcode/tree/master/1470-shuffle-the-array) |
 ## Binary Search
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/aparrna099-afk/Leetcode/tree/master/0217-contains-duplicate) |
+| [0912-sort-an-array](https://github.com/aparrna099-afk/Leetcode/tree/master/0912-sort-an-array) |
 ## Design
 |  |
 | ------- |
@@ -47,4 +49,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aparrna099-afk/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aparrna099-afk/Leetcode/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aparrna099-afk/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aparrna099-afk/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aparrna099-afk/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aparrna099-afk/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/aparrna099-afk/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
